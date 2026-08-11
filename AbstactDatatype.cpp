@@ -100,4 +100,4 @@ int main() {
     unsortedADT(5);
     // inputElement(5, arr)
     return 0;
-}
+} 
